@@ -2,7 +2,7 @@
 
 
 # Malasakit@Bayanihan : PH Emergency & Relief Operation Drive
-Open website: https://dominiclyde.github.io/TGC-Project-2/
+Open website: https://csb-svv1v.netlify.app/
 
 # Project Definition
 
